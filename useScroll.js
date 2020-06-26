@@ -1,4 +1,3 @@
-
 const useScroll = () => {
    const [state, setState] = useState({
      x: 0,
